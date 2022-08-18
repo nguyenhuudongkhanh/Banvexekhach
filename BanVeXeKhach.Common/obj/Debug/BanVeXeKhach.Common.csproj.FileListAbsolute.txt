@@ -1,0 +1,6 @@
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.Common\bin\Debug\BanVeXeKhach.Common.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.Common\bin\Debug\BanVeXeKhach.Common.pdb
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.Common\obj\Debug\BanVeXeKhach.Common.csproj.AssemblyReference.cache
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.Common\obj\Debug\BanVeXeKhach.Common.csproj.CoreCompileInputs.cache
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.Common\obj\Debug\BanVeXeKhach.Common.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.Common\obj\Debug\BanVeXeKhach.Common.pdb

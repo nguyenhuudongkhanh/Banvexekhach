@@ -1,0 +1,9 @@
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\bin\Release\BanVeXeKhach.SqlServer.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\bin\Release\BanVeXeKhach.SqlServer.pdb
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\bin\Release\BanVeXeKhach.Common.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\bin\Release\BanVeXeKhach.Common.pdb
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\obj\Release\BanVeXeKhach.SqlServer.csproj.AssemblyReference.cache
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\obj\Release\BanVeXeKhach.SqlServer.csproj.CoreCompileInputs.cache
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\obj\Release\BanVeXeKhach.SqlServer.csproj.CopyComplete
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\obj\Release\BanVeXeKhach.SqlServer.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.SqlServer\obj\Release\BanVeXeKhach.SqlServer.pdb

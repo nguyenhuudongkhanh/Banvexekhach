@@ -1,0 +1,14 @@
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BanVeXeKhach.BUS_DAO.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BanVeXeKhach.BUS_DAO.pdb
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BanVeXeKhach.SqlServer.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BCrypt.Net.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BanVeXeKhach.Common.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BanVeXeKhach.SqlServer.pdb
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BCrypt.Net.pdb
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BCrypt.Net.xml
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\bin\Debug\BanVeXeKhach.Common.pdb
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\obj\Debug\BanVeXeKhach.BUS_DAO.csproj.AssemblyReference.cache
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\obj\Debug\BanVeXeKhach.BUS_DAO.csproj.CoreCompileInputs.cache
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\obj\Debug\BanVeXeKhach.BUS_DAO.csproj.CopyComplete
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\obj\Debug\BanVeXeKhach.BUS_DAO.dll
+D:\Doanmonhoc\DoAnCNPM\BanVeXeKhach\BanVeXeKhach\BanVeXeKhach.BUS_DAO\obj\Debug\BanVeXeKhach.BUS_DAO.pdb
